@@ -23,8 +23,8 @@ h2c:
   enabled: false
 
 image:
-  repository: stefanprodan/podinfo
-  tag: 4.0.2
+  repository: 983708293885.dkr.ecr.us-east-1.amazonaws.com/podinfo
+  tag: latest
   pullPolicy: IfNotPresent
 
 service:
